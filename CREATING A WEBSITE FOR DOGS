@@ -1,0 +1,333 @@
+<html>
+<head>
+     <title>FOR ALL THE DOG LOVERS</title>
+     <link rel="stylesheet" href="style.css">
+     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+     <link rel="preconnect" href="https://fonts.gstatic.com">
+     <meta name="viewport" content="width =device-width, initial-scale =1">
+     <link href="https://fonts.googleapis.com/css2?family=Langar&display=swap" rel="stylesheet">
+     <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+<body>
+<section id="DOGGG">
+	<img src="images/logo.jpg" class="logo">
+	<div class="DOGGG-text">
+		<h1>Welcome</h1>
+		<p>The 'Bhoo Bhoo' Gang </p>
+    <div class="DOGGG-btn">
+		<a href="#">Explore</a>
+		<a href="#">Contact</a>
+	</div>
+    </div>
+</section>
+
+<div id="sideNav">
+	<nav>
+		<ul>
+			<li><a href="#DOGGG">HOME</a></li>
+			<li><a href="#feature">FEATURES</a></li>
+			<li><a href="#food">FOOD</a></li>
+			<li><a href="#help">HELP</a></li>
+			<li><a href="#joinus">JOIN US</a></li>
+		</ul>
+		</nav>
+    </div>	
+<div id="menubtn">
+	<img src="images/menu.png" id="menu">
+</div>
+<!--Features-->
+
+<section id="feature">
+<div class="title-text">
+<p>FEATURES</p>
+<h1>Why should you choose to adopt?</h1>
+
+</div>
+<div class ="feature-box">
+	<div class="features">
+		
+		<h1>Because you'll save a life</h1>
+		<div class="features-desc">
+		
+			<div class="feature-text">
+				<p>When you adopt, you save a loving animal by making them part of your family and open up shelter space for another animal who might desperately need it.</p>
+		    </div>
+	    </div>
+
+<h1>Because you'll get a great animal</h1>
+		<div class="features-desc">
+		
+			<div class="feature-text">
+				<p>Animal shelters and rescue groups are brimming with happy, healthy pets just waiting for someone to take them home.</p>
+		    </div>
+	    </div>
+
+	<h1>Because it'll cost you less</h1>
+		<div class="features-desc">
+		
+			<div class="feature-text">
+				<p>Usually when you adopt a pet, the cost of spay/neuter, first vaccinations (and sometimes even microchipping!) is included in the adoption price, which can save you some of the up front costs of adding a new member to your family.</p>
+		    </div>
+	    </div>
+	</div>
+	    <div class="features-img">
+	    <img src="images/doggy(1).jpg">
+        </div>
+</div>
+
+</section>
+<!--Food-->
+
+<section id="food">
+	<div class="title-text">
+<p>FOOD</p>
+<h1>Choosing food for your loved dog</h1>
+    </div>
+      <div class="food-box">
+	        <div class="food-box1">
+		        <img src="images/food1.jpg">
+		        <div class="overlay"></div>
+		        <div class="food-desc">
+		        	<h3>Fruits</h3>
+		        	<hr>
+		        	<p>Friuts are play a very important role in keeping a dog healthy.</p>
+		        	
+		        </div>
+	        </div>
+	        <div class="food-box1">
+		        <img src="images/food4.jpg">
+		      <div class="overlay"></div>
+		      <div class="food-desc">
+		        	<h3>Meat</h3>
+		        	<hr>
+		        	<p>Most dogs are fine eating lean cuts of meat that have been cooked well.</p>
+		        	
+		        </div>
+	        </div>
+	       <div class="food-box1">
+		        <img src="images/veggies.jpg">
+		      <div class="overlay"></div>
+		      <div class="food-desc">
+		        	<h3>Vegetables</h3>
+		        	<hr>
+		        	<p>Fresh vegetables help your dog grow healthy and fit.</p>
+		        	
+		        </div>
+	       </div>
+	       <div class="food-box1">
+		        <img src="images/pedigree.jpg">
+		      <div class="overlay"></div>
+		      <div class="food-desc">
+		        	<h3>Pedigree</h3>
+		        	<hr>
+		        	<p>Pedigree improves quality of life and help dog bodies to prevent age-associated health problems.</p>
+		        	
+		        </div>
+	       </div>
+	  </div>
+
+	<div class="food-box1"></div>
+	<div class="food-box1"></div>
+	<div class="food-box1"></div>
+ 
+</section>
+<!--HELP-->
+<section id="help">
+      <div class="title-text">
+      <p>HELP</p>
+      <h1>We are here to help you!</h1>
+      </div>
+      <div class="help-row">
+      	<div class="help-col">
+      		<p>Any health problem contact -
+      		Dr.Labrador:
+      		9922449922</p>
+      	</div>
+      	<div class="help-col">
+      		<p>For vaccination enquiry - 
+      		Dr.Pug : 
+      	    9876665432</p>
+      	</div>
+      	<div class="help-col">
+      		<p>To know more about dog diet -  
+      		Dr.Bull : 
+      	    9564442432</p>
+      	</div>
+      </div>
+</section>
+<!--JOIN US--->
+
+<section id="joinus">
+	<div class="title-text">
+		<p>JOIN US</p>
+		<h1>Join The Bhoo Bhoo Gang</h1>
+	</div>
+	<div class="joinus-row">
+		<div class="joinus-col">
+			<div class="user">
+				<img src="images/doggy(2).jpg">
+				<div class="user-info">
+					<h4>BHOO BHOO FAMILY <i class="fa fa-instagram"></i></h4>
+					<small>@The_bhoo_bhoo_gang</small>
+				</div>
+			</div>
+			<p>Follow us on INSTAGRAM to have a look on our cute little Dogs!Our instagram account is managed by Ms.Kareena Mulla(An animal activist)</p>
+		</div>
+		<div class="joinus-col">
+			<div class="user">
+				<img src="images/doggy(3).jpg">
+				<div class="user-info1">
+					<h4>BHOO BHOO FAMILY <i class="fa fa-facebook-official"></i></h4>
+					<small>@The_bhoo_bhoo_gang</small>
+				</div>
+			</div>
+			<p>Join us on FACEBOOK to know more about our Social Activities.Account managed by Ms.Kareena Mulla(An Animal activist)</p>
+		</div>
+		<div class="joinus-col">
+			<div class="user">
+				<img src="images/doggy(4).jpg">
+				<div class="user-info2">
+					<h4>BHOO BHOO FAMILY <i class="fa fa-twitter"></i></h4>
+					<small>@The_bhoo_bhoo_gang</small>
+				</div>
+			</div>
+			<p>Stay connected with us on TWITTER to know more!Account managed by Ms.Kareena Mulla(An Animal Activist)</p>
+		</div>
+    </div>
+
+</section>
+<script>
+var menubtn = document.getElementById("menubtn")
+var sideNav = document.getElementById("sideNav")
+var menubtn = document.getElementById("menu")
+
+sideNav.style.right = "-250px"
+
+menubtn.onclick = function(){
+	if(sideNav.style.right == "-250px"){
+		sideNav.style.right = "0";
+		menu.src ="images/close.png";
+	}
+	else{
+       sideNav.style.right = "-250px"
+       menu.src = "images/menu.png";
+    }
+}
+
+
+
+
+var scroll = new SmoothScroll('a[href*="#"]', {
+	speed: 1000,
+	speedAsDuration: true
+});
+
+</script>
+
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
